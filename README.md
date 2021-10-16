@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yeoonjae/yeoonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align = 'center'>
 
-# 👩🏻 Hello **yeonjae** World
+# 👩🏻 **Jeong yeonjae**
 
  💻 **I'm a Backend Develover**    
  🎈 **I'm working in South Korea**
- <br> 😊 **I enjoy learning**
-
+ <br> 😊 **I enjoy learning** 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoonjae&&show_icons=true&theme=onedark)
+ 
 </div>
+
+* * * 
 
 * * * 
 
@@ -41,6 +42,3 @@ Here are some ideas to get you started:
 </p>
 
 * * *
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoonjae&&show_icons=true&theme=onedark)
