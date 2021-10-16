@@ -21,12 +21,7 @@ Here are some ideas to get you started:
  🎈 **I'm working in South Korea**
  <br> 😊 **I enjoy learning** 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoonjae&&show_icons=true&theme=onedark)
  
-</div>
-
-* * * 
-
 <h3 align="center">🔸 Tech Stack 🔸</h3>
 <br>
 <p align="center">
@@ -38,4 +33,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://yeoonjae.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistoty-blue?style=flat-square&logo=blogger&logoColor=white"/></a>  <a href="https://github.com/yeoonjae" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a> <a href="mailto:yeonjae@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a> 
 </p>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoonjae&&show_icons=true&theme=onedark)
+ 
+</div>
 
+* * * 
